@@ -1,6 +1,6 @@
 :root {
   --link-color: #2900b4;
-  --link-color-dark: #000000;
+  --link-color-dark: #050505da;
 }
 
 [data-theme="cheese"] {
@@ -42,7 +42,7 @@ body {
 }
 
 a {
-  color: rgba(84, 93, 134, 0.849);
+  color: rgba(59, 88, 218, 0.979);
   text-decoration: none;
 }
 
